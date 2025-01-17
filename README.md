@@ -22,8 +22,8 @@ A **web-based Diabetes Prediction System** built with **Django** and **Bootstrap
 ## 🎯 How to Run Locally  
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/diabetes-prediction.git
-   cd diabetes-prediction
+   git clone https://github.com/patrick-zvenyka/diab-test.git
+   cd diab-test
    ```
 
 2. **Create and activate a virtual environment**  
